@@ -1,3 +1,6 @@
+![Screenshot](UI_QuarkusVueApp5.jpg)
+
+
 # quarkus-vue-app
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
@@ -31,3 +34,5 @@ You can then type this URL to your browser window to view the page
 ```shell script
 http://localhost:8080
 ```
+
+![Screenshot](UI_QuarkusVueApp4.jpg)
