@@ -10,6 +10,9 @@ If you want to learn more about Quarkus, please visit its website: https://quark
 ## Running the application in dev mode
 
 This web app lists the countries found in the Restcountries Free API at [https://restcountries.com/v3.1/all](https://restcountries.com/v3.1/all)
+The user can click each country in the alphabetically sorted list to see a smooth transition open up detailed information of the selected country. With a second click the user can hide the additional information.
+
+The user can also type a name of the country into the search query input field at the top of the page to get a realtime search result on the page.
 
 The application can be started in dev mode with two terminal windows.
 
