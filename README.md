@@ -20,16 +20,18 @@ First terminal window is navigated to main application folder
 
 **/quarkus-vue-app**
 
-and this command is used:
+and these commands are used:
 ```shell script
+chmod +x mvnw
 ./mvnw compile quarkus:dev
 ```
 The second terminal window is navigated to the Vue main folder 
 
 **/quarkus-vue-app/src/main/webapp**
 
-and this command is used:
+and these commands are used:
 ```shell script
+npm install
 npm run serve
 ```
 
