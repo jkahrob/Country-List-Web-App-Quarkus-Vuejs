@@ -31,6 +31,8 @@ The second terminal window is navigated to the Vue main folder
 
 and these commands are used:
 ```shell script
+(from the main app folder)
+cd src/main/webapp
 npm install
 npm run serve
 ```
