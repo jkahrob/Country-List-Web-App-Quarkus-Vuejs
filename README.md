@@ -25,11 +25,8 @@ and these commands are used:
 chmod +x mvnw
 ./mvnw compile quarkus:dev
 ```
-The second terminal window is navigated to the Vue main folder 
+The second terminal window has these commands used 
 
-**/quarkus-vue-app/src/main/webapp**
-
-and these commands are used:
 ```shell script
 (from the main app folder)
 cd src/main/webapp
